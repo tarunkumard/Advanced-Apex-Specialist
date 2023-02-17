@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Advanced Apex Specialist",
+  "namespace": "",
+  "sfdcLoginUrl": "https://cunning-goat-8vc68u-dev-ed.trailblaze.my.salesforce.com/",
+  "sourceApiVersion": "55.0"
+}
